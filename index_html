@@ -2,19 +2,21 @@
 <html>
    <head>
     <meta charset="utf-8">
-    <title>Talita Santos</title>
+    <title>Womans Oboe</title>
    </head>
    <body>
     <header>
-      <h1>Talita Santos</h1>
+      <img src="mulhercacheada.jpg" alt="Ilustração da sombra de uma mulher">
+      <h1>Womans Oboe</h1>
     </header>
     <section>
-      <hearder>
+      <header>
          <h2>Posts</h2>
-      </hearder>
+      </header>
       <article>
          <header>
             <h3>Post 01</h3>
+            <img src="oboes.jpg" alt="Imagem do instrumento musical oboé">
          </header>
          <p>
             Este texto foi criado por <a href="mailto:8talita32@gmail.com">Talita Santos</a>, apenas 
@@ -27,9 +29,3 @@
     <footer></footer>
    </body>
 </html>
-
-
-
-
-
-
