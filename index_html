@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <meta charset="utf-8">
+    <title>Talita Santos</title>
+   </head>
+   <body>
+    <header>
+      <h1>Talita Santos</h1>
+    </header>
+    <section>
+      <hearder>
+         <h2>Posts</h2>
+      </hearder>
+      <article>
+         <header>
+            <h3>Post 01</h3>
+         </header>
+         <p>
+            Este texto foi criado por <a href="mailto:8talita32@gmail.com">Talita Santos</a>, apenas 
+            para praticar as etapas de criação de Websites com HTML5 e CSS3, com base nas instruções 
+            das aulas do professor <a href="https://www.linkedin.com/in/vilaboim/"target="_blank">Lucas 
+            Vilaboim</a>, presentes na plataforma da Digital Innovation One (DIO).
+         </p>
+      </article>
+    </section>
+    <footer></footer>
+   </body>
+</html>
+
+
+
+
+
